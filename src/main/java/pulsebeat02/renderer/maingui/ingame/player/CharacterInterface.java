@@ -1,3 +1,4 @@
+
 package main.java.pulsebeat02.renderer.maingui.ingame.player;
 
 public interface CharacterInterface {
@@ -26,3 +27,4 @@ public interface CharacterInterface {
 	
 	
 }
+
