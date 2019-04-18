@@ -1,0 +1,41 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl cypreschauve_bark_D
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 0.999
+Ns 13.6
+illum 2
+map_Kd cypreschauve_bark_D.png
+bump cypreschauve_bark_NM.png
+map_bump cypreschauve_bark_NM.png
+
+newmtl CypresChauve_mousse_D
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 0.999
+Ns 13.6
+illum 2
+map_Kd CypresChauve_mousse_D.png
+map_d CypresChauve_mousse_D_Alpha.png
+bump CypresChauve_mousse_NM.png
+map_bump CypresChauve_mousse_NM.png
+
+newmtl cypreschauve_needles_D
+Kd 1 1 1
+Ka 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+d 0.999
+Ns 13.6
+illum 2
+map_Kd cypreschauve_needles_D.png
+map_d cypreschauve_needles_D_Alpha.png
+bump CypresChauve_Needles_NM.png
+map_bump CypresChauve_Needles_NM.png
+

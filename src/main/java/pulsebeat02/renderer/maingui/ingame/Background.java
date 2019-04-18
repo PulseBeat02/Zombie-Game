@@ -19,6 +19,7 @@ public class Background {
 	
 		JFrame frame = new JFrame("Zombie Game");
 	
+		@SuppressWarnings("unused")
 		ButtonHandler button = new ButtonHandler(frame, settings, null, 50, 50, 60, 60, false, true, true);
 	
 	}
@@ -32,9 +33,11 @@ public class Background {
 			      int x = c * cellSize;
 			      int y = c * cellSize;
 			      
-			      int currentCell = world[i][c];
+			      @SuppressWarnings("unused")
+				int currentCell = world[i][c];
 
-			      Rectangle draw = new Rectangle(x, y, cellSize, cellSize);
+			      @SuppressWarnings("unused")
+				Rectangle draw = new Rectangle(x, y, cellSize, cellSize);
 			      
 				
 			}

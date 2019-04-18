@@ -1,6 +1,6 @@
 package main.java.pulsebeat02.renderer.maingui.ingame.player;
 
-public abstract class Player implements Character {
+public abstract class Player implements CharacterInterface {
 	
 	 	protected String name;
 	    protected int health;
